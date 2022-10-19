@@ -1,7 +1,7 @@
 ### Hello world 👋
 
-- 🔭 I’m currently working as a full stack developer and python developer
-- 🌱 I’m currently learning php/laravel and python/flask...
+- 🔭 I’m currently working as a data engineer and python developer
+- 🌱 I’m currently learning PySpark and Apache Airflow...
 - 📫 How to reach me: filipe.mello.sampaio@gmail.com
  
  <div>
